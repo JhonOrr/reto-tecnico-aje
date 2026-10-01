@@ -36,7 +36,7 @@ async function processDlqRecord(record: SQSRecord): Promise<void> {
 ======================================================================
 ALERTA CRÍTICA DE SCRAPING - AJE GROUP
 ======================================================================
-Destinatario: jorregoj96@gmail.com
+Destinatario: jorregoj@uni.pe
 Fecha / Hora: ${alertPayload.timestamp}
 Tienda: ${alertPayload.storeName ?? 'N/A'}
 URL Objetivo: ${alertPayload.targetUrl ?? 'N/A'}
