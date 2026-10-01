@@ -1,1 +1,1 @@
-{"statusCode":200,"body":"{\"message\":\"Tareas de scraping despachadas correctamente a la cola principal SQS.\",\"jobId\":\"job-2026-10-01-1790891465773\",\"dispatchedStores\":3,\"scheduledDate\":\"2026-10-01\"}"}
+{"statusCode":200,"body":"{\"message\":\"Tareas de scraping despachadas correctamente a la cola principal SQS.\",\"jobId\":\"job-2026-10-01-1790892581680\",\"dispatchedStores\":3,\"scheduledDate\":\"2026-10-01\"}"}
