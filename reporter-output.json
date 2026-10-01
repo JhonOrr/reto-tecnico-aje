@@ -1,0 +1,1 @@
+{"statusCode":200,"body":"{\"message\":\"Reporte comparativo generado y estructurado exitosamente.\",\"targetDate\":\"2026-10-01\",\"s3Location\":\"s3://aje-price-scraper-data-072735288257-us-east-1/reports/2026/10/Precios_Comparativos_2026_10_01.csv\",\"totalProcessedItems\":10,\"googleSync\":{\"status\":\"STORED_IN_S3_PENDING_GOOGLE_CREDENTIALS\"}}"}

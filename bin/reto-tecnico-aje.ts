@@ -4,6 +4,8 @@ import { RetoTecnicoAjeStack } from '../lib/reto-tecnico-aje-stack';
 
 const app = new cdk.App();
 new RetoTecnicoAjeStack(app, 'RetoTecnicoAjeStack', {
+  alertEmailRecipient: 'jorregoj96@gmail.com',
+  googleSheetsWebhookUrl: 'https://script.google.com/macros/s/AKfycbwMwFlagIqjhWyduOm4-MuhcIcOeu5v-gqi4FB2KwA4934a5nJGp-x6qo4c4TQV-rSU/exec'
   /* If you don't specify 'env', this stack will be environment-agnostic.
    * Account/Region-dependent features and context lookups will not work,
    * but a single synthesized template can be deployed anywhere. */
